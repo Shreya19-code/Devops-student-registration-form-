@@ -1,0 +1,9 @@
+Valid submission done
+Blank validation checked
+Invalid email tested
+Invalid mobile tested
+Dropdown working
+Reset button working
+
+C:\ProgramData\Jenkins\.jenkins\workspace\job>exit 0 
+Finished: SUCCESS
